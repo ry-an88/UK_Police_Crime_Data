@@ -1,0 +1,18 @@
+# Raw UK Police data (~2.1 GB) - download from https://data.police.uk/data/ (see README)
+uk_police_data/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+~$*
