@@ -2,7 +2,6 @@
 
 An end-to-end ETL pipeline in Python and Pandas. It takes **~4.9 million raw UK Police crime records** from four police forces over three years, joins them with ONS demographic and socioeconomic data, and produces a **validated, BI-ready reporting dataset** for Power BI.
 
-> Built as part of the **Rockborne Data Training Programme** (Cohort 20), July 2026.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
@@ -141,5 +140,5 @@ All data is publicly available under the [Open Government Licence v3.0](https://
 
 ## Author
 
-**Dip Raiyan**, Rockborne Data Training Programme, Cohort 20
-<!-- Add your LinkedIn URL here: [LinkedIn](https://www.linkedin.com/in/your-profile) -->
+**Dip Raiyan**
+https://www.linkedin.com/in/dipraiyan/
