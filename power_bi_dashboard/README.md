@@ -7,7 +7,7 @@
 > Screenshots of each page are below. The PDF contains the complete report.
 <!-- Optional: add a walkthrough video link here, e.g. 🎥 [Watch a 2-minute walkthrough](https://youtu.be/...) -->
 
-*The dashboard was published to the Power BI Service during the programme. Public web embedding is turned off for that organisation's account, so a PDF export and screenshots are provided instead.*
+
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-measures-0078D4)
@@ -17,8 +17,6 @@
 ## Purpose
 
 Police force leadership (senior officers, crime analysis leads and resource planners) needs a **self-service** way to see what is happening, where, and how it is changing, and to compare their force fairly with others.
-
-The brief described these users as **time-poor and non-technical**. Every design choice was tested against one question: *can a senior officer understand this page within 5 seconds?*
 
 **Coverage:** Essex, Kent, Sussex and the Metropolitan Police Service · June 2023 to May 2026 · **4.94 million recorded crimes** · 14 crime categories
 
@@ -122,4 +120,4 @@ Dashboard design for non-technical stakeholders · Power BI data modelling (star
 
 ---
 
-**Author:** Dip Raiyan · Rockborne Data Training Programme, Cohort 20
+**Author:** Dip Raiyan 
