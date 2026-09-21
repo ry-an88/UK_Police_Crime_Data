@@ -11,6 +11,8 @@ An end-to-end ETL pipeline in Python and Pandas. It takes **~4.9 million raw UK 
 
 ---
 
+> 📊 **Phase 2: Power BI dashboard.** The output of this pipeline feeds a 3-page, stakeholder-facing [**UK Crime Intelligence Dashboard**](power_bi_dashboard/). See the dashboard, key insights and DAX in [`power_bi_dashboard/`](power_bi_dashboard/).
+
 ## At a glance
 
 | | |
@@ -93,6 +95,7 @@ All data is publicly available under the [Open Government Licence v3.0](https://
 ├── BI_Reporting_Dataset_Final.csv          # Final BI-ready output
 ├── enrichment_data/                        # ONS & IMD enrichment datasets
 ├── images/pipeline_workflow_diagram.png    # Architecture diagram
+├── power_bi_dashboard/                     # Phase 2: Power BI dashboard (write-up, PDF, screenshots)
 ├── requirements.txt
 └── uk_police_data/                         # NOT in repo: download separately (see below)
 ```
@@ -135,7 +138,6 @@ All data is publicly available under the [Open Government Licence v3.0](https://
 - Add Outcomes and Stop & Search datasets to the reporting model
 - Load into a warehouse (e.g. PostgreSQL / DuckDB) as a star schema instead of a flat CSV
 - Orchestrate monthly incremental loads (e.g. Airflow / Prefect) using the data.police.uk API
-- Build and publish the accompanying Power BI dashboard
 
 ## Author
 

@@ -16,3 +16,6 @@ desktop.ini
 .vscode/
 .idea/
 ~$*
+
+# Power BI source file (kept local)
+*.pbix
